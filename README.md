@@ -10,7 +10,7 @@
   <a href="https://vercel.com/mxndess-projects">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </a>
-  <img src="https://img.shields.io/badge/Sorocaba%2C%20SP-2c5364?style=for-the-badge" alt="Sorocaba, SP" />
+  <img src="https://img.shields.io/badge/Sorocaba_SP-2c5364?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Sorocaba, SP" />
 </p>
 
 ## 👋 Olá, eu sou o Pedro
